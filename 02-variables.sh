@@ -1,7 +1,7 @@
 #!/bin/bash
 
-P1=Ramesh
-P2=Suresh
+P1=Ram
+P2=Raheem
 
 echo "${P1}: Hello ${P2},Good Morning"
 echo "${P2}: Hi ${P1},very Good Morning" 
